@@ -52,19 +52,18 @@ export const insights = [
     imgUrl: "/planet-06.png",
     title: "The launch of the Metaverse makes Elon musk ketar-ketir",
     subtitle:
-      "Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.",
+      "The metaverse, to put it simply, is a virtual alternate world in which we interact via avatars, using tech objects like headsets and goggles. The idea was to build virtual and augmented technology.",
   },
   {
     imgUrl: "/planet-07.png",
     title: "7 tips to easily master the madness of the Metaverse",
     subtitle:
-      "Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum",
+      "The metaverse is described as the inevitable evolution of the internet. But what exactly is the metaverse, and what will it become? Learn what businesses need to know now.",
   },
   {
     imgUrl: "/planet-08.png",
     title: "With one platform you can explore the whole world virtually",
-    subtitle:
-      "Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem",
+    subtitle: "We believe in the future of connection in the metaverse.",
   },
 ];
 
